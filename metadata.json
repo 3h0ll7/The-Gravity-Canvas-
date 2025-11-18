@@ -1,0 +1,5 @@
+{
+  "name": "Gravity Canvas",
+  "description": "A generative physics art sandbox where particles orbit invisible gravity wells, creating neon spirographs. AI powers the level generation.",
+  "requestFramePermissions": []
+}
